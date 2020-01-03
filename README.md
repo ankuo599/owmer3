@@ -36,8 +36,8 @@ composer update topthink/framework
 php think worker:gateway
 ~~~
 
-## 桌面版下载  (.exe)
-==注: 暂时只提供windows版 下载==
+## APP下载  (.apk)
+==注: 暂时只提供安卓版 下载==
 
 网盘 | 地址 | 密码 
 ---|---|---
