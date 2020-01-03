@@ -19,6 +19,10 @@ http://148.70.120.105/#/
 
 [演示地址](http://148.70.120.105/#/) 
 
+<div  align="center">    
+  <img src="./demo/qrcode.png" width = "400" alt="图片名称" align=center />
+</div>
+
 
 ## 安装
 
@@ -41,10 +45,7 @@ php think worker:gateway
 
 网盘 | 地址 | 密码 
 ---|---|---
-90网盘 | https://www.90pan.com/b1586253 | av08
-城通网盘 | https://t00y.com/file/23130714-415425690 | 无
-
-
+90网盘 | https://www.90pan.com/b1592867 | 18gb
 
 
 ## 演示
